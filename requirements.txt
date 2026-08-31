@@ -2,5 +2,7 @@ fastapi
 uvicorn
 tensorflow
 scikit-learn
+pandas
 joblib
 python-multipart
+jinja2
